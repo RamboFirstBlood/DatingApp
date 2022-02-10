@@ -1,0 +1,8 @@
+PS D:\AmithLearning\DatingApp\API> dotnet run
+
+
+
+Access to XMLHttpRequest at '' from origin '' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+
+http://localhost:4200/
